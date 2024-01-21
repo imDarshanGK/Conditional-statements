@@ -30,3 +30,12 @@
     Your age is 22
     Eligible to vote
     User
+# How many days in month
+    Enter the month:6
+    30 days
+    
+    Enter the month:3
+    31 days
+    
+    Enter the month:31
+    Invalid Month
