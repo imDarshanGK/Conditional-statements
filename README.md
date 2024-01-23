@@ -39,3 +39,15 @@
     
     Enter the month:31
     Invalid Month
+# single chracter
+    Enter single chracter:a
+    Lower case alphabet
+    
+    Enter single chracter:C
+    Upper case alphabet
+    
+    Enter single chracter:5
+    Digit
+    
+    Enter single chracter:$
+    Special Character
