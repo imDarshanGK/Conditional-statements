@@ -76,3 +76,10 @@ Example 3:
 
     Enter single alphabet: c
     Consonant
+
+# Finding fibonaccing term using recursive function
+Fibonacci
+
+output:
+    
+     result= 3
