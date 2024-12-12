@@ -1,85 +1,42 @@
-# Check days:
+# Conditional Statements 🧮
 
-    Enter a day:2
-    Tuesday
+## Overview 📝
 
-# Choose your branch
+The **Conditional Statements** repository demonstrates how to use Python's `if`, `elif`, and `else` statements for decision-making in code. It includes practical examples to showcase how to control the flow of execution based on different conditions. This project is ideal for beginners looking to learn and implement conditional logic in Python. 🐍
 
-    Welcome to SIET College
-    1}ECE
-    2}EEE
-    3}CSE
-    4}ISE
-    5}AI&DS
-    Choose your branch:3
-    You selected CSE
+## Features ⚡
 
-    Welcome to SIET College
-    1}ECE
-    2}EEE
-    3}CSE
-    4}ISE
-    5}AI&DS
-    Choose your branch:2
-    You selected EEE
-    
-# If Statement
+- 💡 Practical examples of `if`, `elif`, and `else` statements.
+- 🧠 Learn how to handle multiple conditions and control program flow.
+- 🚀 A perfect resource for mastering conditional logic in Python.
 
-    Enter your age:15
-    Your age is 15
-    User
+## Installation and Usage 🏃‍♂️
 
-    Enter your age:22
-    Your age is 22
-    Eligible to vote
-    User
-    
-# How many days in month
+To use the examples:
 
-    Enter the month:6
-    30 days
-    
-    Enter the month:3
-    31 days
-    
-    Enter the month:31
-    Invalid Month
-    
-# single chracter
+```bash
+# Clone the repository
+git clone https://github.com/imDarshanGK/Conditional-statements.git
 
-    Enter single chracter:a
-    Lower case alphabet
-    
-    Enter single chracter:C
-    Upper case alphabet
-    
-    Enter single chracter:5
-    Digit
-    
-    Enter single chracter:$
-    Special Character
+```
 
-# Single alphabet or Vowel
-single alphabet
+## Contribution 🤝
+Contributions are welcome! Follow these steps:
 
-Example 1:
+```
+# Fork the repository on GitHub
 
-    Enter single alphabet: I
-    Upper case vowel
+# Clone your forked repository
+git clone https://github.com/your-username/Conditional-statements.git
 
-Example 2:
+# Create a new branch for your feature or fix
+git checkout -b feature-name
 
-    Enter single alphabet: a
-    Lower case vowel
+# Make your changes and commit them
+git commit -m "Add feature or fix description"
 
-Example 3:
+# Push to the branch
+git push origin feature-name
 
-    Enter single alphabet: c
-    Consonant
-
-# Finding fibonaccing term using recursive function
-Fibonacci
-
-output:
-    
-     result= 3
+# Open a pull request on GitHub
+```
